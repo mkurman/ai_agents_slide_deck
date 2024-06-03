@@ -1,0 +1,5 @@
+crewai==0.30.11
+crewai_tools==0.2.6
+langchain_community==0.0.38
+openai==1.30.5
+ipython==8.25.0
